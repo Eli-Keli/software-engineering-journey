@@ -7,7 +7,6 @@ The repository is organized by weeks and days to keep track of my progress:
 
 ## Weekly Breakdown
 ### Week 1: Introduction to Programming
-
 - **Day 1-2**: Setting up the development environment and learning basic syntax.
   - **Tasks**:
     - Choose a programming language (Python).
@@ -24,13 +23,11 @@ The repository is organized by weeks and days to keep track of my progress:
     - Organize code using modules.
 
 ### Week 2: Object-Oriented Programming (OOP) and Version Control
-
 - **Day 1-2**: Introduction to OOP.
 - **Day 3-4**: Advanced OOP concepts.
 - **Day 5-7**: Version control with Git.
 
 ### Week 3: Databases and Web Development Basics
-
 - **Day 1-2**: Introduction to SQL.
 - **Day 3-4**: Basic web development.
 - **Day 5-7**: Introduction to back-end development.
