@@ -1,52 +1,41 @@
-# Software Engineering Journey
-Welcome to my Software Engineering Journey repository! This repository documents my progress and learning as I delve into the world of software engineering. I'll be following a structured plan, completing daily tasks, weekly challenges, and monthly reviews.
+# SWE Journey
 
-## Repository Structure
-The repository is organized by weeks and days to keep track of my progress:
+## Week 1
 
+### Day 1: Introduction to Python
+- Learned basic syntax
+- Wrote a simple Python program
 
-## Weekly Breakdown
-### Week 1: Introduction to Programming
-- **Day 1-2**: Setting up the development environment and learning basic syntax.
-  - **Tasks**:
-    - Choose a programming language (Python).
-    - Set up the development environment.
-    - Learn basic syntax: variables, data types, and operators.
-- **Day 3-4**: Control structures.
-  - **Tasks**:
-    - Learn about conditional statements (if, else).
-    - Study loops (for, while).
-- **Day 5-7**: Functions and modules.
-  - **Tasks**:
-    - Understand how to define and call functions.
-    - Learn about parameters and return values.
-    - Organize code using modules.
+### Day 2: Data Types and Variables
+- Explored different data types
+- Worked with variables
 
-### Week 2: Object-Oriented Programming (OOP) and Version Control
-- **Day 1-2**: Introduction to OOP.
-- **Day 3-4**: Advanced OOP concepts.
-- **Day 5-7**: Version control with Git.
+### Day 3: Conditional Statements and Loops
+- Implemented if-else conditions
+- Practiced for and while loops
+- Challenge: Number guessing game
 
-### Week 3: Databases and Web Development Basics
-- **Day 1-2**: Introduction to SQL.
-- **Day 3-4**: Basic web development.
-- **Day 5-7**: Introduction to back-end development.
+### Day 4: Lists and Basic Operations
+- Learned list creation and manipulation
+- Practiced list methods
+- Challenge: List manipulation tasks
 
-## Goals
-- Build a strong foundation in programming.
-- Develop problem-solving skills.
-- Learn to use version control systems effectively.
-- Gain hands-on experience with web development and databases.
+### Day 5: Dictionaries and HashMaps
+- Learned dictionary/HashMap creation and manipulation
+- Practiced dictionary methods
+- Challenge: Word count program
+- Additional Challenge: Character frequency program
 
-## Challenges and Projects
-I will be completing various challenges and projects to apply the concepts I learn. These will be documented in their respective weekly folders.
+### Day 6: Sets and Tuples
+- Learned about sets and their operations
+- Learned about tuples and their uses
+- Challenge: Set operations and tuple manipulation
 
-## Contact
-Feel free to reach out to me if you have any questions or suggestions:
+### Day 7: Files and Exception Handling
+- Learned file handling in Python
+- Understood how to handle exceptions
+- Challenge: Word count program with error handling
 
-- Email: muthokaelikeli@gmail.com
-- LinkedIn: [Eli-Keli](https://www.linkedin.com/in/eli-keli-muthoka-b9a9a627b/)
-
----
-
-Thank you for visiting my repository. Stay tuned for more updates as I continue my learning journey!
+## Progress Summary
+- Successfully completed Day 1 to Day 7 tasks and challenges
+- Continuing with daily learning and challenges
