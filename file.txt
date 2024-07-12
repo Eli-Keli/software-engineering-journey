@@ -1,0 +1,2 @@
+This is the challenge file.
+We are getting the number of words here.
