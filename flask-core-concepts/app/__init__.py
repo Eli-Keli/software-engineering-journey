@@ -1,13 +1,12 @@
 
-#* Blueprints in Flask
+#* Forms with WTForms
 
 from flask import Flask
 from .main import main as main_blueprint
 
-
-# Initialize Flask and Register the Blueprint
 def create_app():
     app = Flask(__name__)
+    app.config['SECRET_KEY'] = "myweaksecretkey"
 
     app.register_blueprint(main_blueprint)
 
